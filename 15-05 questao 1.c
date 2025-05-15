@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-int numeros[5];7
+int numeros[5];
 
 for(int i=0; i<5; i++){
     printf(" Digite o %d numero:", i+1);
